@@ -74,7 +74,7 @@ const cmdData = {
       { type: 'success', text: 'remote: Counting objects: 100% (5/5), done.' },
       { type: 'success', text: 'remote: Compressing objects: 100% (3/3), done.' },
       { type: 'success', text: 'Receiving objects: 100% (3/3) 1.4 KiB, done.' },
-      { type: 'success', text: 'From https://github.com/devstudent/git-devlab-project' },
+      { type: 'success', text: 'From https://github.com/SoftWare00750/Frontend-Fundamentals-Advanced-Week-2' },
       { type: 'info',    text: '   e5f6g7h..h8i9j0k  main → origin/main' },
       { type: 'muted',   text: "# Now see what's different" },
       { type: 'prompt',  text: 'git diff main origin/main' },
@@ -100,7 +100,7 @@ const cmdData = {
       { type: 'muted',   text: '# Pull latest from remote main into local' },
       { type: 'prompt',  text: 'git pull origin main' },
       { type: 'info',    text: 'remote: Enumerating objects: 3, done.' },
-      { type: 'success', text: 'From https://github.com/devstudent/git-devlab-project' },
+      { type: 'success', text: 'From https://github.com/SoftWare00750/Frontend-Fundamentals-Advanced-Week-2' },
       { type: 'success', text: ' * branch            main → FETCH_HEAD' },
       { type: 'success', text: 'Updating h8i9j0k..i9j0k1l' },
       { type: 'success', text: 'Fast-forward' },
@@ -116,7 +116,7 @@ const cmdData = {
       { type: 'info',    text: 'Enumerating objects: 9, done.' },
       { type: 'info',    text: 'Counting objects: 100% (9/9), done.' },
       { type: 'success', text: 'Writing objects: 100% (5/5), 1.23 KiB, done.' },
-      { type: 'success', text: 'To https://github.com/devstudent/git-devlab-project.git' },
+      { type: 'success', text: 'To https://github.com/SoftWare00750/Frontend-Fundamentals-Advanced-Week-2' },
       { type: 'success', text: ' * [new branch]      feature/login → origin/feature/login' },
       { type: 'info',    text: "Branch 'feature/login' tracks 'origin/feature/login'." },
     ]
@@ -132,7 +132,7 @@ const cmdData = {
       { type: 'muted',   text: '# Push renamed branch and set upstream' },
       { type: 'prompt',  text: 'git push origin -u feature/dashboard' },
       { type: 'success', text: "Branch 'feature/dashboard' set up to track 'origin/feature/dashboard'." },
-      { type: 'success', text: 'To https://github.com/devstudent/git-devlab-project.git' },
+      { type: 'success', text: 'To https://github.com/SoftWare00750/Frontend-Fundamentals-Advanced-Week-2' },
       { type: 'success', text: ' * [new branch]      feature/dashboard → origin/feature/dashboard' },
     ]
   }
