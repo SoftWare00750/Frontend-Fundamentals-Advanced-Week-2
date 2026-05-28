@@ -24,8 +24,9 @@ This project serves as the visual presentation deliverable for a Git Version Con
 
 The website also contains a formatted submission email (Section 05) with an embedded link to the live GitHub repository, fulfilling the assignment deliverable requirement.
 
-> **Repository Link:** [https://github.com/devstudent/git-devlab-project](https://github.com/devstudent/git-devlab-project)  
-> *(Replace this with your actual repository URL before submission)*
+> **Repository Link**
+
+> https://github.com/SoftWare00750/Frontend-Fundamentals-Advanced-Week-2/edit/main/index.html
 
 ---
 
